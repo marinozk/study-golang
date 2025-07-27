@@ -13,7 +13,4 @@ func main() {
 	
 	hasil = b * c + a
 	fmt.Println(hasil)
-	
-	
-	
 }
